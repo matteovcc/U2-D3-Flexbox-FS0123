@@ -80,6 +80,7 @@
         grid-template-rows: repeat(2, auto);
         grid-gap: 10px;
         object-fit: contain;
+        position: relative;
       }
 
       #quarto{
