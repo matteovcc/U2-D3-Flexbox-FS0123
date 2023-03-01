@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    margin:0 auto;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    border-radius:23%;
+    overflow: hidden;
+    background-color: rgb(252, 252, 197);
+    color:brown;
+}
+
+button{
+    background-color:goldenrod;
+    padding:8px 40px;
+    margin-bottom:10px;
+    border-radius:50px;
+    border:none;
+    font-size:18px;
+    
+}
+h1{
+    font-size:large;
+    font-weight: bold;
+    margin-right:50%;
+    margin-top:10%;
+    margin-bottom:0;
+}
+p{
+    margin-right:47%;
+    margin-top:2px;
+    margin-bottom:25px;
+}
+span{
+    width: 40%;
+    text-align: right;
+    position:absolute;
+    top:28.8rem;
+    right:51rem;    
+    font-size:22px;
+}
+
+
